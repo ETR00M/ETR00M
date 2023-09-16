@@ -1,4 +1,4 @@
-💀 Hi, I’m @ETR00M
+💀 Hi, I’m @ETRØØM
 ***
 - 💻 I’m interested in Cybersecurity
 - ⌛ I’m currently learning Offensive Security
