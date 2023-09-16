@@ -3,7 +3,7 @@
 - 🔭 I’m interested in Cybersecurity
 - ⌛ I’m currently learning Offensive Security
 - 💻 I’m looking to collaborate on any open source project
-- ❓ I’m looking for help with Offensive Security, OPSEC and CTF's
+- ❔ I’m looking for help with Offensive Security, OPSEC and CTF's
 - 🚩 How to reach me www.linkedin.com/in/ls-anderson
 
 <!---
