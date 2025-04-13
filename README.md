@@ -5,10 +5,9 @@
 - 💻 I’m looking to collaborate on any open source project
 - ❔ I’m looking for help with Offensive Security, OPSEC and CTF's
 - 🚩 How to reach me:
+  -  https://www.youtube.com/trajetoriahacker
   -  https://www.instagram.com/etr00m
   -  https://www.tiktok.com/@etr00m
-  -  https://www.youtube.com/trajetoriahacker
-  -  www.linkedin.com/in/ls-anderson
 
 <!---
 ETR00M/ETR00M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
